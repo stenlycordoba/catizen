@@ -11,7 +11,7 @@ cd catizen
 ```
 ```
 node main.js
-
+```
 
 # SCREENSHOT
 
